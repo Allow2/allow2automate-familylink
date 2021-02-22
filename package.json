@@ -1,0 +1,20 @@
+{
+  "name": "allow2automate-familylink",
+  "shortName": "FamilyLink",
+  "version": "0.0.2",
+  "description": "Enable Allow2Automate the ability to manage Google FamilyLink",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Allow2/allow2automate-familylink"
+  },
+  "allow2Token":"",
+  "keywords" : [
+    "allow2automate", "allow2", "ssh"
+  ],
+  "author": "Allow2",
+  "license": "Apache-2.0"
+}
